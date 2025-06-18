@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Prachi!
 
-<!--
-**Prachi0307-creator/Prachi0307-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile—thanks for stopping by!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about technology, always eager to learn, and love building things that make a difference. Whether it's through code, collaboration, or creative problem-solving, I strive to leave a positive mark wherever I go.
+
+- ✨ Lifelong learner and tech enthusiast
+- 💡 Open to collaboration on exciting projects
+
+---
+
+## 📄 My Resume
+
+Want to learn more about my background, experience, and skills?  
+**[Check out my Resume here!](https://drive.google.com/file/d/1CFZwSMrs5J2o5h_0bysg-dlleKhvb9Eb/view?usp=sharing)**
+
+---
+
+## 🌱 What I’m Up To
+
+- Exploring new technologies and tools
+- Contributing to open-source projects
+- Connecting with like-minded creators
+
+---
+
+## 📫 Let’s Connect!
+
+Feel free to reach out if you’d like to connect, collaborate, or just say hi.  
+Let’s build something amazing together!
+
+---
+
+⭐️ _Thanks for visiting my profile!_
