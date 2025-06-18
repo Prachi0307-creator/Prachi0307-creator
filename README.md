@@ -16,7 +16,7 @@ I'm passionate about technology, always eager to learn, and love building things
 ## 📄 My Resume
 
 Want to learn more about my background, experience, and skills?  
-**[Check out my Resume here!]([https://drive.google.com/file/d/1CFZwSMrs5J2o5h_0bysg-dlleKhvb9Eb/view?usp=sharing](https://drive.google.com/file/d/1CW1NU_ucGfoYX8zhjZ7tc-SgOXyCa17B/view?usp=sharing))**
+**[Check out my Resume here!](https://drive.google.com/file/d/1CW1NU_ucGfoYX8zhjZ7tc-SgOXyCa17B/view?usp=sharing)**
 
 ---
 
